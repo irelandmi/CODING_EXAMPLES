@@ -1,5 +1,12 @@
 #%%
 
+##############################
+#run the "live data.py" file before running this script.
+#this file will display a live matplotlib graph of the data
+##############################
+
+
+
 import numpy as np
 import json
 from datetime import datetime
